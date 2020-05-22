@@ -5,35 +5,35 @@
 ### Música
 
 <div>
-  <img src="assets/screenshots/music_screen.png" alt="Print da Página de música"
-	title="Página de música" width="300" height="500" />
-  <img src="assets/screenshots/music_screen2.png" alt="Print da Página de música"
-	title="Página de música" width="300" height="500" />
-  <img src="assets/screenshots/music_screen3.png" alt="Print da Página de música"
-	title="Página de música" width="300" height="500" />
+  <img src="assets/screenshots/music_screen.png" alt="Print da Tela de música"
+	title="Tela de música" width="300" height="500" />
+  <img src="assets/screenshots/music_screen2.png" alt="Print da Tela de música"
+	title="Tela de música" width="300" height="500" />
+  <img src="assets/screenshots/music_screen3.png" alt="Print da Tela de música"
+	title="Tela de música" width="300" height="500" />
 </div>
 
 ### Shows
 
 <div>
-  <img src="assets/screenshots/shows_screen.png" alt="Print da Página de shows"
-  title="Print da Página de shows" width="300" height="500" />
-  <img src="assets/screenshots/shows_screen2.png" alt="Print da Página de shows"
-  title="Página de shows" width="300" height="500" />
+  <img src="assets/screenshots/shows_screen.png" alt="Print da Tela de shows"
+  title="Tela de shows" width="300" height="500" />
+  <img src="assets/screenshots/shows_screen2.png" alt="Print da Tela de shows"
+  title="Tela de shows" width="300" height="500" />
 </div>
 
 ### Favoritos
 
-<img src="assets/screenshots/favorite_screen.png" alt="Print da Página de Favoritos"
-title="Página de Favoritos" width="300" height="500" />
+<img src="assets/screenshots/favorite_screen.png" alt="Print da Tela de Favoritos"
+title="Tela de Favoritos" width="300" height="500" />
 
 ### Busca
 
 <div>
-<img src="assets/screenshots/search_screen.png" alt="Print da Página de Busca"
-title="Página de Busca" width="300" height="500" />
-<img src="assets/screenshots/search_screen2.png" alt="Print da Página de Busca"
-title="Página de Busca" width="300" height="500" />
+<img src="assets/screenshots/search_screen.png" alt="Print da Tela de Busca"
+title="Tela de Busca" width="300" height="500" />
+<img src="assets/screenshots/search_screen2.png" alt="Print da Tela de Busca"
+title="Tela de Busca" width="300" height="500" />
 </div>
 
 #### Observações sobre o projeto
